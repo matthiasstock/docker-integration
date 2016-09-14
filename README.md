@@ -1,10 +1,10 @@
 # docker-integration
-A prototypical implementation of a containerized legacy software wrapper.
+A prototypical implementation of a containerized software wrapper.
 
 ## What It Does
-The docker-integration base image acts as a basis for your software you want to
-integrate with other systems using a unified interface. It is intended to remove
-the need of writing boilerplate code.
+The docker-integration base image acts as a basis for your software that you
+want to integrate with other systems using a unified interface. It is intended
+to remove the need of writing boilerplate code.
 
 ## What It Contains
 - Maven project for docker-integration
