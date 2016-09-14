@@ -1,0 +1,7 @@
+{
+  "strategy" : "file",
+  "notification" : {
+    "type"   : "shell",
+    "action" : "figlet-writer.sh ${file}"
+  }
+}
